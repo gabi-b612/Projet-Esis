@@ -1,0 +1,82 @@
+
+a{
+    text-decoration: none;
+}
+.conteneur{
+    display: flex;
+    align-items: center;
+    margin: 20px;
+    padding: 10px;
+    flex-direction: column;
+}
+
+.content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+.content img{
+    width: 500px;
+}
+
+.contents img{
+    width: 500px;
+}
+.text{
+    width: 500px;
+}
+
+.js-details{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+}
+
+.js-details div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+    width: 600px;
+}
+
+.contents{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    width: 600px;
+}
+
+.contents h2{
+    text-align: center;
+}
+
+.contents span{
+    margin-bottom: 20px;
+}
+
+.content span{
+    margin-bottom: 20px;
+}
+
+.text-details{
+    width: 500px;
+}
+
+.biblo{
+    width: 1000px;
+    padding: 20px;
+}
+
+.row{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

@@ -1,0 +1,49 @@
+﻿
+body{
+    padding: 12px;
+}
+main{
+    width:80%;
+    height: 10px auto;
+    text-align:center;
+    background-color:white;
+    border:1px gainsboro solid;
+    margin:10px auto;
+}
+main h1{
+    font-size: 25px;
+    font-family: Sans-Serif;
+    color: red;
+    background-color:powderblue;
+    padding:10px;
+    margin:5px
+}
+.horaire {
+    border: 1px gainsboro solid;
+    margin:0px 5px;
+}
+h2{
+    color:darkblue;
+    text-align:left;
+    font-size:20px;
+    font-family:sans-serif;
+    padding:2px 5px;
+    cursor:pointer;
+}
+table{
+    width:100%;
+
+}
+td, tr {
+    border: 1px gainsboro solid;
+    margin:0px
+}
+.a{
+    cursor:pointer;
+    text-align:left;
+    color:red;
+}
+table,a{
+    display:none;
+
+}

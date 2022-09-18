@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+   <link rel="stylesheet" href="../../assets/style/resultat.css">
+   <link rel="stylesheet" href="../../assets/style/bootstrap.min.css">
+
+    <title>Publication</title>
+</head>
+<body>
+    <header class="header" id="header">
+		<nav class="navbar navbar-expand-lg navbar-light bg-light">
+			<div class="container-fluid ">
+				<a class="navbar-brand" href="#">
+				  <img src="../../assets/img/logo.png" alt="" width="30" height="35" class="d-inline-block align-text-top">
+				  esisalama
+				</a>
+			  </div>
+			<div class="container-fluid">
+			  <a class="navbar-brand" href="#"></a>
+			  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+			  </button>
+			  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+				<ul class="navbar-nav me-auto mb-2 mb-lg-0">
+				  <li class="nav-item">
+					<a class="nav-link active" aria-current="page" href="../../index.HTML">
+						<img src="../../assets/img/icon/ic-home.png" alt="" width="30" height="24" class="d-inline-block align-text-top">
+						accueil</a>
+				  </li>
+				  <li class="nav-item dropdown">
+					<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+						<img src="../../assets/img/icon/ic-edu.webp" alt="" width="30" height="24" class="d-inline-block align-text-top">
+						Education
+					</a>
+					<ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+						<li><a class="dropdown-item" href="../../content/horaire/horaire.html">horaire</a></li>
+						<li><a class="dropdown-item" href="./bibliotheque.html">bibliotheque</a></li>
+						<li><a class="dropdown-item" href="./publication.html">publication</a></li>
+		  
+						<li><a class="dropdown-item" href="./centredexcellence.html">centre d'exellence</a></li>
+						<li><hr class="dropdown-divider"> </li>
+					</ul>
+				  </li>
+				  <li class="nav-item">
+					<a class="nav-link" href="../../content/actuality.HTML">
+						<img src="../../assets/img/icon/ic-actualite.png" alt="" width="30" height="24" class="d-inline-block align-text-top">
+						Actualite</a>
+				  </li>
+				  <li class="nav-item">
+					<a class="nav-link active" aria-current="page" href="../../content/about.HTML">
+						<img src="../../assets/img/icon/ic-propos.jpg" alt="" width="30" height="24" class="d-inline-block align-text-top">
+						a propos</a>
+				  </li>
+				</ul>
+			  </div>
+			</div>
+		</nav>
+	</header>
+    <main>
+        <img class="img" src="../../assets/img/logo.png" alt="Logo">
+
+        <h1>Formulaire de connexion</h1>
+        <form action="#">
+           <div> <input type="text" placeholder="Matricule"></div>
+        <div> <select name="promotion" id="promotion">
+                <optgroup label="Preparatoire">
+                    <option value="1">Prepa</option>
+                </optgroup>
+
+                <optgroup label="Premiere Licence">
+                    <option value="2">L1</option>
+                </optgroup>
+
+                <optgroup label="Deuxieme Graduat">
+                    <option value="3">G2 GL</option>
+                    <option value="4">G2 MSI</option>
+                    <option value="5">G2 DSG</option>
+                    <option value="6">G2 AS</option>
+                    <option value="7">G2 TLC</option>
+                </optgroup>
+
+                <optgroup label="Troisieme Graduat">
+                    <option value="8">G3 GL</option>
+                    <option value="9">G3 MSI</option>
+                    <option value="10">G3 DSG</option>
+                    <option value="11">G3 AS</option>
+                    <option value="12">G3 TLC</option>
+                </optgroup>
+            </select></div>
+            <div>   <input type="password" placeholder="Code de securité" /></div>
+            <div>       <button> connecter </button> </div>
+          
+        </form>
+    </main>
+
+    <script src="../../assets/script/bootstrap.bundle.min.js"></script>
+</body>
+</html>
