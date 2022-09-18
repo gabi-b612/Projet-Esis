@@ -1,5 +1,9 @@
 # Projet-Esis
 
+Chef : KABOMBO MUKADI GABRIEL 20KM095
+adjoint : KALAMBO BUTOLO GAMALIEL 20KB125
+
+
 Proposer un Design pour le site https://www.esisalama.com/index.php 
 Tels etait notre sujet
 
