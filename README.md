@@ -3,9 +3,8 @@
 Proposer un Design pour le site https://www.esisalama.com/index.php 
 Tels etait notre sujet
 
-Nous le groupe Niklaus Wirth avons proposer un site simple pas complexe et mais avec quelque defaults.
-Pour realiser notre site design nous avons utiliser le framework Boostrap pour ameliorer encor le design
-de notre et a cela nous avons apporter notre tous personnel avec les quelques notions de CSS et JS que nous avions.
+Nous le groupe Niklaus Wirth nous avons proposer un design simple.
+Pour realiser notre design nous avons utiliser le framework Boostrap
 
 La toutes premiers difficulte rencontres etait l'organisation du travail. Cela nous appris beaucoup temps pour nous mettre d'accord 
 sur certain points et demarrer concretement le projet. Faute de ca nous n'avons pas pu deposer un travail au dela de la perfection.
